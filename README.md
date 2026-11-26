@@ -54,91 +54,91 @@ The following images are sanitized derivatives of the 22 supplied screenshots. S
 
 ### 01. Package index update
 
-![Package index update](./screenshots/01.png)
+![Package index update](./01.png)
 
 ### 02. IPv4 package index update
 
-![IPv4 package index update](./screenshots/02.png)
+![IPv4 package index update](./02.png)
 
 ### 03. Security tool installation request
 
-![Security tool installation request](./screenshots/03.png)
+![Security tool installation request](./03.png)
 
 ### 04. Project directory creation
 
-![Project directory creation](./screenshots/04.png)
+![Project directory creation](./04.png)
 
 ### 05. Project directory navigation
 
-![Project directory navigation](./screenshots/05.png)
+![Project directory navigation](./05.png)
 
 ### 06. Evidence folder creation
 
-![Evidence folder creation](./screenshots/06.png)
+![Evidence folder creation](./06.png)
 
 ### 07. Evidence folder verification
 
-![Evidence folder verification](./screenshots/07.png)
+![Evidence folder verification](./07.png)
 
 ### 08. Application homepage
 
-![Application homepage](./screenshots/08.png)
+![Application homepage](./08.png)
 
 ### 09. HTML inspection
 
-![HTML inspection](./screenshots/09.png)
+![HTML inspection](./09.png)
 
 ### 10. Browser storage inspection
 
-![Browser storage inspection](./screenshots/10.png)
+![Browser storage inspection](./10.png)
 
 ### 11. Burp configuration
 
-![Burp configuration](./screenshots/11.png)
+![Burp configuration](./11.png)
 
 ### 12. Burp proxy initialization
 
-![Burp proxy initialization](./screenshots/12.png)
+![Burp proxy initialization](./12.png)
 
 ### 13. Browser navigation
 
-![Browser navigation](./screenshots/13.png)
+![Browser navigation](./13.png)
 
 ### 14. HTTP history
 
-![HTTP history](./screenshots/14.png)
+![HTTP history](./14.png)
 
 ### 15. HTTP request inspection
 
-![HTTP request inspection](./screenshots/15.png)
+![HTTP request inspection](./15.png)
 
 ### 16. HTTP response inspection
 
-![HTTP response inspection](./screenshots/16.png)
+![HTTP response inspection](./16.png)
 
 ### 17. Staff response inspection
 
-![Staff response inspection](./screenshots/17.png)
+![Staff response inspection](./17.png)
 
 ### 18. Patient response inspection
 
-![Patient response inspection](./screenshots/18.png)
+![Patient response inspection](./18.png)
 
 ### 19. Staff authentication interface
 
-![Staff authentication interface](./screenshots/19.png)
+![Staff authentication interface](./19.png)
 
 ### 20. Patient authentication interface
 
-![Patient authentication interface](./screenshots/20.png)
+![Patient authentication interface](./20.png)
 
 ### 21. ZAP initialization
 
-![ZAP initialization](./screenshots/21.png)
+![ZAP initialization](./21.png)
 
 ### 22. ZAP alert overview
 
-![ZAP alert overview](./screenshots/22.png)
+![ZAP alert overview](./22.png)
 
 ## Conclusion
 
